@@ -1,0 +1,17 @@
+<keymap version="1" name="NetBeans copy" parent="NetBeans 6.5">
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="EditorIndentSelection">
+    <keyboard-shortcut first-keystroke="tab" />
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
+  <action id="ExportToTextFile" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift alt o" />
+    <keyboard-shortcut first-keystroke="alt o" />
+  </action>
+</keymap>
