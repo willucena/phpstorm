@@ -1,0 +1,6 @@
+<keymap version="1" name="NetBeans copy" parent="NetBeans 6.5">
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="OpenFile" />
+</keymap>
