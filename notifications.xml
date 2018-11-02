@@ -1,0 +1,7 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Debugger" shouldLog="false" />
+    <notification groupId="SVN ToolBox Messages" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="System Messages" shouldLog="false" />
+  </component>
+</application>
