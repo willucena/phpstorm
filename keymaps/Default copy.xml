@@ -1,0 +1,18 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="ExportToTextFile" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="alt f" />
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="alt o" />
+  </action>
+  <action id="Vcs.Log.FocusTextFilter" />
+</keymap>
