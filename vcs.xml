@@ -14,8 +14,16 @@
           <option name="url" value="https://github.com/p21wilson/vikingsphpunit.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="wilsonlucena" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://wilsonlucena@bitbucket.org/jerfeson/qg21.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\www" />
+    <option name="cloneParentDir" value="C:\p21\sistemas\web\apache" />
   </component>
 </application>
