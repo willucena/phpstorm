@@ -1,0 +1,6 @@
+<code_scheme name="Default" version="173">
+  <option name="LINE_SEPARATOR" value="&#10;" />
+  <codeStyleSettings language="PHP">
+    <option name="SPACE_AROUND_UNARY_OPERATOR" value="true" />
+  </codeStyleSettings>
+</code_scheme>
